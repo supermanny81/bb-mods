@@ -3,6 +3,7 @@
 Things I've done to my BB8 along the way.
 
 ![](assets/chargeport_switch.jpeg)
+
 [Charge port power switch](stls/charge_port_micro_switch.stl) - Replaced the wireless relay with a solid state one.
 
 ![](assets/p2_square_lens.jpeg)
