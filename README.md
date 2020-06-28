@@ -6,7 +6,7 @@ Things I've done to my BB8 along the way.
 
 ![](assets/chargeport_switch.jpeg)
 
-The wireless I used can be found on Amazon, but I have seen comparable models elsewhere.
+The relay I used can be found on Amazon, but I have seen comparable models elsewhere.
 
 https://www.amazon.com/gp/product/B07L6Y7LVW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
