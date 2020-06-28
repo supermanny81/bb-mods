@@ -14,7 +14,7 @@ https://www.amazon.com/gp/product/B07L6Y7LVW/ref=ppx_yo_dt_b_search_asin_title?i
 
 ## Dome Lenses
 
-![](assets/dome_lens.jpeg)
+![](assets/dome_lens.png)
 
 New lenses for addressable LEDs, intended to remove the hot spots.
 
