@@ -39,7 +39,7 @@ Lowers the center of gravity for the battery, provides a mount for the dome's el
 
 ![](assets/p2_square_lens.jpeg)
 
-[P2 Square Lens STL](stls/p2_square_lens.stl) - A neopixel lens for panel 2's square cutout.
+[P2 Square Lens STL](stls/p2_square_lens.stl) - A neopixel lens used with Cary's thin panels, this fits in panel 2's square cutout.
 
 ## Wireless firmware uploads and control!!!!
 
