@@ -19,6 +19,7 @@ https://www.amazon.com/gp/product/B07L6Y7LVW/ref=ppx_yo_dt_b_search_asin_title?i
 New lenses for addressable LEDs, intended to remove the hot spots.
 
 [Lens for front logics, print 2 of these](stls/dome_front_logics.stl)
+
 [Lens for back logics](stls/dome_back_logics.stl)
 
 ## Halo Eletronics Mount
@@ -27,9 +28,12 @@ New lenses for addressable LEDs, intended to remove the hot spots.
 
 Lowers the center of gravity for the battery, provides a mount for the dome's electronics and a switch.  The switch is easily accessible and the dome can be plugged in to charge while on the droid.
 
-[Halo Brace](stls/halo_brace.stl) 
-[Halo Battery Mount](stls/halo_battery_mount.stl) 
-[Halo Switch Mount](stls/halo_switch_mount.stl) 
+[Halo Brace](stls/halo_brace.stl)
+
+[Halo Battery Mount](stls/halo_battery_mount.stl)
+
+[Halo Switch Mount](stls/halo_switch_mount.stl)
+
 
 ## New Lens for Panel 2
 
