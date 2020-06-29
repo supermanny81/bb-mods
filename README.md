@@ -1,6 +1,6 @@
 # A collection of BB8 mods
 
-[![CC BY 4.0][cc-by-shield]][cc-by
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 Things I've done to my BB8 along the way.
 
