@@ -67,4 +67,9 @@ https://www.amazon.com/gp/product/B076H1J7V1/ref=ppx_yo_dt_b_search_asin_title?i
 
 [Halo Receiver Mount](stls/halo_receiver_mount.stl) - The receiving mount which attaches the magnet mounts.
 
-[Halo Transmitter Mount](stls/halo_transmitter_mount.stl) - The transmitter mount which attaches the mount inside the body.
+[Halo Transmitter Mount](stls/halo_transmitter_mount.stl) - The transmitter mount which attaches the mount inside the body.o
+
+
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
